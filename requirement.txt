@@ -9,3 +9,5 @@ mtcnn
 keras-vggface
 keras
 tensorflow
+PIL
+google-cloud-vision
