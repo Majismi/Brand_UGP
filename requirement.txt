@@ -1,0 +1,11 @@
+pandas
+nltk
+emoji
+textstat
+matplotlib
+Pillow
+numpy
+mtcnn
+keras-vggface
+keras
+tensorflow
