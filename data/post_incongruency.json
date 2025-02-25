@@ -1,0 +1,7 @@
+{
+    "image": "example.jpg",
+    "brand": "Coca-Cola",
+    "image_description": "bright, colorful, festive, energetic, fun",
+    "brand_description": "refreshing, happiness, youth, dynamic",
+    "euclidean_distance": 1.56
+}
